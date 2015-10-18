@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsubu Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963102,
+          -37.799741
+        ]
+      }
+    }
+  ]
+}
